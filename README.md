@@ -2,20 +2,20 @@
 A starter hub for RBOIS hacking
 
 ## Communities
-- OWASP: Community focused on improving software security (https://owasp.org/)
-- DEF CON Forums: Community for meetups and finding nearby people with similar interests in hacking and security research.
-- FIRST: A large community of security and incident response professionals, connecting practitioners in similar industries along with government, and academia sectors. 
-- Red Team Village: Community focused on offensive security and red teaming.
-- Infosec.Exchange: Community focused on information security, useful for following researchers and finding niche discussions.
+- OWASP (https://owasp.org/): Community focused on improving software security
+- DEF CON Forums (https://forum.defcon.org/): Community for meetups and finding nearby people with similar interests in hacking and security research.
+- FIRST (https://www.first.org/): A large community of security and incident response professionals, connecting practitioners in similar industries along with government, and academia sectors. 
+- Red Team Village (https://redteamvillage.io/): Community focused on offensive security and red teaming.
+- Infosec.Exchange (https://infosec.exchange/explore): Community focused on information security, useful for following researchers and finding niche discussions.
 
 ## Researchers
-- SpecterOps: Publishes deep technical content providing useful information for red-team, identity, and attack-path research.
-- Mandiant/Google Group: Provides content on adversary behavior, and modern intrusion trends.
-- CISA: Publishes real-life findings and common weaknesses observed during assessments.
-- DFIR Report: A collection of real-world incident responses from investigations.
+- SpecterOps (https://specterops.io/): Publishes deep technical content providing useful information for red-team, identity, and attack-path research.
+- Mandiant/Google Group (https://cloud.google.com/security/mandiant): Provides content on adversary behavior, and modern intrusion trends.
+- CISA (https://www.cisa.gov/resources-tools): Publishes real-life findings and common weaknesses observed during assessments.
+- DFIR Report (https://thedfirreport.com/): A collection of real-world incident responses from investigations.
 
 ## Tooling
-- MITRE ATT&CK: categorizes adversary techniques into subcomponents along the attack phases. 
+- MITRE ATT&CK (https://attack.mitre.org/): categorizes adversary techniques into subcomponents along the attack phases. 
 ### CLI and GUI Tools
 - NMAP: Ever wonder what devices are connected to your network, open ports, or actively running services? This tool will show it. 
 - Wireshark: Performs deep packet analysis on all traffic traversing through your network. Capturing details about visited websites, connected protocols, as well as any unencrypted passwords sent over the network.
@@ -30,7 +30,7 @@ A starter hub for RBOIS hacking
 - OWASP Zap: The open-source sibling of BurpSuite. Zap scan for common web flaws, Cross-site scripting, misconfigurations, insecure cookies, and visualizes everything neatly. It’s beginner friendly, open-source, and a perfect place to start learning about web security scanning. 
 - NetCat (NC): You can use it to create simple connections between devices, send data, check open ports, and even transfer files. It’s powerful in debugging and learning how raw network communications really work.
 ### AI Tools
-- GPTShield: Secures AI tools, preventing malicious prompt attempts and data leaks. 
+- GPTShield (https://chatgpt.com/g/g-NdDdtfZJo-gpt-shield): Secures AI tools, preventing malicious prompt attempts and data leaks. 
 - AIM-Hacker: Analyzes code looking for vulnerabilities, generating fixes that developers can use for patching identified weaknesses.
 - DarkMentor: A chatbot that was trained on leaked hacking guides. It is an underground tutor for cyber criminals. 
 - CodeXploit: Generates and tests exploits using AI-powered fuzzying. 
@@ -44,7 +44,7 @@ A starter hub for RBOIS hacking
 - FLIPPER ZERO: This tool uses RFIDs, NFCs, RF frequencies, etc. once cloned to bypass access controls.
 - WIFI PINEAPPLE: It creates a fake Wi-Fi hotspot that appears legitimate. It can intercept data as well as perform website redirection and malware injections on any connect device, without the device owner’s knowledge.
 ### MOBILE APPS
-- Droid Sheep: This app allows you to intercept web session profiles over a network. It can capture session cookies, allowing you to test the security of web applications and ensure they are protected against session hi-jacking. 
+- Droid Sheep (https://droidsheep.info/): This app allows you to intercept web session profiles over a network. It can capture session cookies, allowing you to test the security of web applications and ensure they are protected against session hi-jacking. 
 - AndroRat: A remote admin and security tool for identifying device vulnerabilities.
 - Zanti: This is a mobile penetration testing toolkit that lets you assess the security of your network, detailing recommendations for securing any identified vulnerabilities.
 - Fing Fing: Actively scan your network, providing detailed information on connected devices as well as alerting you to any unauthorized devices detected in your network. 
