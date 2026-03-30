@@ -10,8 +10,6 @@ A starter hub for RBOIS hacking
 
 ## Researchers
 - SpecterOps: Publishes deep technical content providing useful information for red-team, identity, and attack-path research.
-- Bishop Fox: Publishes red teaming guidance, strategy, and tooling overviews.
-- TrustedSec: Content revolves around red team blogs, tradecraft discussions, and lessons learned engagement.
 - Mandiant/Google Group: Provides content on adversary behavior, and modern intrusion trends.
 - CISA: Publishes real-life findings and common weaknesses observed during assessments.
 - DFIR Report: A collection of real-world incident responses from investigations.
