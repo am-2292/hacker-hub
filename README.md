@@ -9,9 +9,9 @@ A starter hub for RBOIS hacking
 - Infosec.Exchange (https://infosec.exchange/explore): A community focusing on information security.
 
 ## Researchers
-- SpecterOps (https://specterops.io/): Publishes deep technical content providing useful information for red-team, identity, and attack-path research.
-- Mandiant/Google Group (https://cloud.google.com/security/mandiant): Provides content on adversary behavior, and modern intrusion trends.
-- CISA (https://www.cisa.gov/resources-tools): Publishes real-life findings and common weaknesses observed during assessments.
+- SpecterOps (https://specterops.io/): Publishes technical content for red teaming.
+- Mandiant Group (https://cloud.google.com/security/mandiant): Provides information about adversary behavior, and intrusion trends.
+- CISA (https://www.cisa.gov/resources-tools): Publishes findings and common weaknesses found during assessments.
 - DFIR Report (https://thedfirreport.com/): A collection of real-world incident responses from investigations.
 
 ## Tooling
@@ -22,13 +22,13 @@ A starter hub for RBOIS hacking
 - Metasploit: Considered the toolbox inside the toolbox. It’s an exploitation framework meaning it’s used in labs to test how systems respond to known vulnerabilities. It gives you understanding how vulnerabilities are categorized, and how payloads work. Study the moves to learn how to defend against them.
 - BurpSuite: Ever wonder happens between your browser and a website when you click login? That’s what BurpSuite reveals. It identifies websites containing insecure cookies and improperly configured forms. Additionally, it serves as a web proxy, giving users the ability to review and modify, if needed, web requests before submission. 
 - Aircrack NG: Is a suite of tools that teaches users about Wi-Fi security. Capturing wireless packets to help users understand how encryption types such as WPA2/WPA3 work through analysis.
-- Hydra: It’s a password testing login tool. It tries different username/password combinations to see how easy it is to guess credentials. 
-- John the Ripper/Hashcat: Both are password hash analysis tools. They don’t steal passwords; they test the strength of hashed ones. These tools try to reverse week ones. You can use test hashes in a controlled environment, see how different algorithms behave, and realize that even one missing capital letter can make a password a thousand times easier to guess.
-- Nikto: The webserver detective. Nikto scans websites to identify common security issues, outdated software, exposed directories, or missing headers. It doesn’t hack it just reports what’s wrong. It’s the first step in finding problems before bad actors do. Run it on your own servers or local lab; it’s a great way to understand web hygiene.
-- Enum4linux: It’s about information gathering. It’s used to enumerate or map out windows and SMB services on a network. Basically, it asks what users exist here, what shares are open, what policies are set.
-- SQLMap: It’s a tool that researchers use to test SQL injections. It automates the detection of database vulnerabilities in test environments. Remember you don’t run this on real sites. Use lab apps like DBWA (damn vulnerable web app) to see how queries can be exploited and fix. Understanding SQLMap conceptually teaches you one big thing, never trust user input in your web apps.
-- OWASP Zap: The open-source sibling of BurpSuite. Zap scan for common web flaws, Cross-site scripting, misconfigurations, insecure cookies, and visualizes everything neatly. It’s beginner friendly, open-source, and a perfect place to start learning about web security scanning. 
-- NetCat (NC): You can use it to create simple connections between devices, send data, check open ports, and even transfer files. It’s powerful in debugging and learning how raw network communications really work.
+- Hydra: A tool that tries different username/password combinations to see how easy it is to guess credentials. 
+- John the Ripper/Hashcat: Hash analysis tools that test the strength of generated hashes. 
+- Nikto: This tool is used in scanning websites to find common security issues, outdated software, exposed directories, or missing headers. 
+- Enum4linux: This tool maps out both Windows and SMB services found in a network to identify existing users, open shares, and policies set.
+- SQLMap: Tool used for testing SQL injections. 
+- OWASP Zap: A tool used for scanning websites, looking for flaws like improper configurations or insecure cookies.
+- NetCat (NC): A comprehensive tool that can send data, transfer files, and check for open ports.
 ### AI Tools
 - GPTShield (https://chatgpt.com/g/g-NdDdtfZJo-gpt-shield): Secures AI tools, preventing malicious prompt attempts and data leaks. 
 - AIM-Hacker: Analyzes code looking for vulnerabilities, generating fixes that developers can use for patching identified weaknesses.
@@ -55,15 +55,15 @@ A starter hub for RBOIS hacking
 - Google Dorking: Indexes massive amounts of information from websites across the internet. Attackers use advanced search operators called Google Dorks to find sensitive information which includes exposed documents, login portals, confidential files, and personal data. 
 - Dehashed (https://dehashed.com/): It is a great tool for searching through data breaches and compromised credentials. It is a massive database of leaked information. 
 - Lookups.io (https://lookups.io/): Pulls data from hundreds of public sources to build detailed profiles.
-- Urlscan.io (https://urlscan.io/): A web-based sandbox that analyzes websites.
-- Hunter.io (https://hunter.io/): Handy for finding emails linked to domains. 
-- Pipl (https://pipl.com/): Allows you to perform deep dive research into a person’s online presence.
-- SpiderFoot (https://spiderrfoot.com/): Scans hundreds of publicly available sources to help you build a profile on your target. 
-- Censys: Scans hundreds of publicly available sources for potentially exposed servers, services, and certificates.
-- Exploit Database (https://www.exploit-db.com/google-hacking-database): Archives public exploit codes and vulnerabilities. Ideal for studying real-world attack techniques and finding real-world vulnerable surfaces using dorks.  
-- Maltego (https://www.maltego.com/): It’s the tool you want when you need to map relationships and connections between people, organizations, and infrastructure. It allows you to visualize data and follow threads across networks. 
-- Have I PWNED (https://haveibeenpwned.com/): Crucial for checking if your information has been involved in any data breach. 
-- Burp Suite/Web Security Academy (https://portswigger.net/burp): is a web security tool and free training platform. One of the most widely used tools for finding web vulnerabilities and learning exploitation.
+- Urlscan.io (https://urlscan.io/): Analyzes websites in a sandboxed environment.
+- Hunter.io (https://hunter.io/): Used for finding emails associated with domains. 
+- Pipl (https://pipl.com/): Perform in-depth analysis on an individual
+- SpiderFoot (https://spiderrfoot.com/): Builds a comprehensive profile on your target.
+- Censys: Scans hundreds of publicly available sources identify potentially exposed servers, services, and certificates.
+- Exploit Database (https://www.exploit-db.com/google-hacking-database): Archived database containing explots and vulnerabilities. 
+- Maltego (https://www.maltego.com/): Visually maps out relationships between people, organizations, and infrastructure.
+- Have I PWNED (https://haveibeenpwned.com/): Crucial for checking if your information has been involved in a data breach. 
+- Burp Suite/Web Security Academy (https://portswigger.net/burp): Database tool for finding web vulnerabilities and learning exploites.
 ## Writeups/Case Studies
 - The DFIR Report Case Studies (https://thedfirreport.com/): Publishes detailed breakdowns of real cyber intrusions. 
 - PortSwigger Web Security Research (https://portswigger.net/): Publishes articles on new web attack techniques, detailing how discovered vulnerabilities can be weaponized.
@@ -103,5 +103,4 @@ A starter hub for RBOIS hacking
 1.	Create malware with Python (I created malware with Python)
 2.	Hacking websites with BurpSuite
 3.	How to Catch Hackers (How to build a Honeypot and Catch Hackers)
-
 
