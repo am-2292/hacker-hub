@@ -47,53 +47,52 @@ A starter hub for RBOIS hacking
 - Droid Sheep (https://droidsheep.info/): This app allows you to intercept web session profiles over a network. It can capture session cookies, allowing you to test the security of web applications and ensure they are protected against session hi-jacking. 
 - AndroRat: A remote admin and security tool for identifying device vulnerabilities.
 - Zanti: This is a mobile penetration testing toolkit that lets you assess the security of your network, detailing recommendations for securing any identified vulnerabilities.
-- Fing Fing: Actively scan your network, providing detailed information on connected devices as well as alerting you to any unauthorized devices detected in your network. 
+- Fing (https://www.fing.com/): Actively scan your network, providing detailed information on connected devices as well as alerting you to any unauthorized devices detected in your network. 
 - dSploit: This tool is capable of performing man-in-the-middle attacks, allowing you to intercept and modify network traffic. 
 - USD Cleaver: This app is designed to gather information from connected windows devices, capable of extracting passwords, and Wi-Fi keys, in addition to other sensitive data. 
 - Orbot: Anonymizes your online activities, allowing you access to previously censored websites and services.
 ### OSINT
 - Google Dorking: Indexes massive amounts of information from websites across the internet. Attackers use advanced search operators called Google Dorks to find sensitive information which includes exposed documents, login portals, confidential files, and personal data. 
-- Dehashed: It is a great tool for searching through data breaches and compromised credentials. It is a massive database of leaked information. 
-- Lookups.io: Pulls data from hundreds of public sources to build detailed profiles.
-- Urlscan.io: A web-based sandbox that analyzes websites.
-- Hunter.io: Handy for finding emails linked to domains. 
-- Pipl: Allows you to perform deep dive research into a person’s online presence.
-- SpiderFoot: Scans hundreds of publicly available sources to help you build a profile on your target. 
+- Dehashed (https://dehashed.com/): It is a great tool for searching through data breaches and compromised credentials. It is a massive database of leaked information. 
+- Lookups.io (https://lookups.io/): Pulls data from hundreds of public sources to build detailed profiles.
+- Urlscan.io (https://urlscan.io/): A web-based sandbox that analyzes websites.
+- Hunter.io (https://hunter.io/): Handy for finding emails linked to domains. 
+- Pipl (https://pipl.com/): Allows you to perform deep dive research into a person’s online presence.
+- SpiderFoot (https://spiderrfoot.com/): Scans hundreds of publicly available sources to help you build a profile on your target. 
 - Censys: Scans hundreds of publicly available sources for potentially exposed servers, services, and certificates.
-- Exploit Database: Archives public exploit codes and vulnerabilities. Ideal for studying real-world attack techniques and finding real-world vulnerable surfaces using dorks.  
-- Maltego It’s the tool you want when you need to map relationships and connections between people, organizations, and infrastructure. It allows you to visualize data and follow threads across networks. 
-- Have I PWNED: Crucial for checking if your information has been involved in any data breach. 
-- Burp Suite/Web Security Academy: is a web security tool and free training platform. One of the most widely used tools for finding web vulnerabilities and learning exploitation.
+- Exploit Database (https://www.exploit-db.com/google-hacking-database): Archives public exploit codes and vulnerabilities. Ideal for studying real-world attack techniques and finding real-world vulnerable surfaces using dorks.  
+- Maltego (https://www.maltego.com/): It’s the tool you want when you need to map relationships and connections between people, organizations, and infrastructure. It allows you to visualize data and follow threads across networks. 
+- Have I PWNED (https://haveibeenpwned.com/): Crucial for checking if your information has been involved in any data breach. 
+- Burp Suite/Web Security Academy (https://portswigger.net/burp): is a web security tool and free training platform. One of the most widely used tools for finding web vulnerabilities and learning exploitation.
 ## Writeups/Case Studies
-- The DFIR Report Case Studies: Publishes detailed breakdowns of real cyber intrusions. 
-- PortSwigger Web Security Research: Publishes articles on new web attack techniques, detailing how discovered vulnerabilities can be weaponized.
-- SpecterOps Blog: Publishes research articles on advanced attacks used in enterprise environments. 
-- SANS Reading Room: Publishes in-depth technical papers that covers a plethora of cybersecurity topics.
+- The DFIR Report Case Studies (https://thedfirreport.com/): Publishes detailed breakdowns of real cyber intrusions. 
+- PortSwigger Web Security Research (https://portswigger.net/): Publishes articles on new web attack techniques, detailing how discovered vulnerabilities can be weaponized.
+- SpecterOps Blog (https://specterops.io/blog/): Publishes research articles on advanced attacks used in enterprise environments. 
+- SANS Reading Room (https://www.sans.org/white-papers): Publishes in-depth technical papers that covers a plethora of cybersecurity topics.
 ## Events/Conferences
-- DEF CON: A hacker conference where the latest tools, newest exploits, and advanced research are presented.
-- Black Hat: A conference that delivers technical briefings and training in cybersecurity. Releases high-quality research and recorded talks for learning.
-- Red Team Village Content: A collection of talks and training content from Red Team Village events. Focuses specifically on offensive security techniques and real-world tactics.
-- Rabbit Holes
-- Null Byte: A resource for hands-on hacking tutorials, walkthroughs, and guides that is focused on app exploitation, Wi-Fi hacking, OSINT, social engineering (Facebook), and tool usage. 
+- DEF CON (https://defcon.org/): A hacker conference where the latest tools, newest exploits, and advanced research are presented.
+- Black Hat (https://blackhat.com/): A conference that delivers technical briefings and training in cybersecurity. Releases high-quality research and recorded talks for learning.
+- Red Team Village Content (https://redteamvillage.io/): A collection of talks and training content from Red Team Village events. Focuses specifically on offensive security techniques and real-world tactics. 
 
 ## Rabbit Holes
+- Null Byte (https://null-byte.wonderhowto.com/): A resource for hands-on hacking tutorials, walkthroughs, and guides that is focused on app exploitation, Wi-Fi hacking, OSINT, social engineering (Facebook), and tool usage.
 ### GitHub Repositories
 #### Reverse Engineering Tooling
 - Tools analyzing compiled binaries and malware to understand how malicious software works.
-  1.	Ghidra
-  2.	Ida-pro
+  1.	Ghidra (https://github.com/nationalsecurityagency/ghidra)
+  2.	Ida-pro (https://github.com/mrexodia/ida-pro-mcp)
 #### Advanced Red Team Tools
-- PowerUpSQL: A tool for discovering, auditing, and exploiting Microsoft SQL server environments.
-- MicroBurst: A PowerShell toolkit for attacking and auditing Microsoft Azure environments.
-- PowerHuntShares: A tool to find and analyze overly permissive SMB file shares in Active Directory environments.
-- Inveigh Zero: A Windows-based spoofing and man-in-the-middle tool. 
-- RayV Lite: A hardware hacking tool for exploiting microchips.
+- PowerUpSQL (https://github.com/NetSPI/PowerUpSQL/wiki): A tool for discovering, auditing, and exploiting Microsoft SQL server environments.
+- MicroBurst (https://github.com/Netspi/Microburst): A PowerShell toolkit for attacking and auditing Microsoft Azure environments.
+- PowerHuntShares (https://github.com/NetSPI/PowerHuntShares): A tool to find and analyze overly permissive SMB file shares in Active Directory environments.
+- Inveigh Zero (https://github.com/Kevin-Robertson/InveighZero): A Windows-based spoofing and man-in-the-middle tool. 
+- RayV Lite (https://github.com/ProjectLOREM/RayVLite): A hardware hacking tool for exploiting microchips.
 
 ## Obscure Resources
-- LOLBAS Project: A list of legitimate Windows binaries that can be abused by attackers. Showing how attackers use built-in tools instead of malware to evade detection.
-- GTFOBins: A list of Unix binaries that can be exploited for privilege escalation.
-- Malware Traffic Analysis: A site with real packet captures and malware traffic examples. Lets you practice analyzing real malicious network activity.
-- LiveOverflow: A YouTube channel that walks through hard to understand hacking concepts.
+- LOLBAS Project (https://lolbas-project.github.io/): A list of legitimate Windows binaries that could be exploit.
+- GTFOBins (https://gtfobins.org/): A list of Unix binaries that could be exploited for privilege escalation.
+- Malware Traffic Analysis (https://www.malware-traffic-analysis.net/): A site with real packet captures and malware traffic examples. Lets you practice analyzing real malicious network activity.
+- LiveOverflow (https://liveoverflow.com/): A YouTube channel that walks through hard to understand hacking concepts.
 ### PODCASTS
 1.	Darknet Diaries 
 2.	Hacker Public Radio
