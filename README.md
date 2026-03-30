@@ -82,8 +82,8 @@ A starter hub for RBOIS hacking
 ### GitHub Repositories
 #### Reverse Engineering Tooling
 - Tools analyzing compiled binaries and malware to understand how malicious software works.
-- 1.	Ghidra
-- 2.	Ida-pro
+  1.	Ghidra
+  2.	Ida-pro
 #### Advanced Red Team Tools
 - PowerUpSQL: A tool for discovering, auditing, and exploiting Microsoft SQL server environments.
 - MicroBurst: A PowerShell toolkit for attacking and auditing Microsoft Azure environments.
@@ -97,14 +97,14 @@ A starter hub for RBOIS hacking
 - Malware Traffic Analysis: A site with real packet captures and malware traffic examples. Lets you practice analyzing real malicious network activity.
 - LiveOverflow: A YouTube channel that walks through hard to understand hacking concepts.
 ### PODCASTS
-- 1.	Darknet Diaries 
-- 2.	Hacker Public Radio
-- 3.	Off the Hook
-- 4.	Hack the Planet
-- 5.	H4unted Hacker
+1.	Darknet Diaries 
+2.	Hacker Public Radio
+3.	Off the Hook
+4.	Hack the Planet
+5.	H4unted Hacker
 ## Starter Projects
-- 1.	Create malware with Python (I created malware with Python)
-- 2.	Hacking websites with BurpSuite
-- 3.	How to Catch Hackers (How to build a Honeypot and Catch Hackers)
+1.	Create malware with Python (I created malware with Python)
+2.	Hacking websites with BurpSuite
+3.	How to Catch Hackers (How to build a Honeypot and Catch Hackers)
 
 
