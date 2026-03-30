@@ -1,8 +1,8 @@
 # hacker-hub
 A starter hub for RBOIS hacking
 
-Communities
-**OWASP: Community focused on improving software security.**
+## Communities
+OWASP: Community focused on improving software security.
 DEF CON Forums: Community for meetups and finding nearby people with similar interests in hacking and security research.
 FIRST: A large community of security and incident response professionals, connecting practitioners in similar industries along with government, and academia sectors. 
 Red Team Village: Community focused on offensive security and red teaming.
