@@ -35,7 +35,7 @@ A starter hub for RBOIS hacking
 - DarkMentor: A chatbot that learned how to hack through stolen hacking guides. It is a secret teacher for people who commit cybercrimes.
 - CodeXploit: Uses AI-powered fuzzying to make and test exploits.
 ### GADGETS
-- https://hackerwarehouse.com/: Place to 
+- https://hackerwarehouse.com/: Hardware hacking tools
 ### MOBILE APPS
 - Droid Sheep: This app lets you get into other people’s web sessions.
 - AndroRat: Is a tool for remote administration and security that finds weaknesses in devices.
