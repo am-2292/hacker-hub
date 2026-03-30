@@ -2,11 +2,11 @@
 A starter hub for RBOIS hacking
 
 ## Communities
-- OWASP (https://owasp.org/): Community focused on improving software security
-- DEF CON Forums (https://forum.defcon.org/): Community for meetups and finding nearby people with similar interests in hacking and security research.
-- FIRST (https://www.first.org/): A large community of security and incident response professionals, connecting practitioners in similar industries along with government, and academia sectors. 
-- Red Team Village (https://redteamvillage.io/): Community focused on offensive security and red teaming.
-- Infosec.Exchange (https://infosec.exchange/explore): Community focused on information security, useful for following researchers and finding niche discussions.
+- OWASP (https://owasp.org/): Community that is focused on improving software security
+- DEF CON Forums (https://forum.defcon.org/): Community to find nearby people to meet up with who have similar interests in hacking and security research.
+- FIRST (https://www.first.org/): Community for security and incident response professionals to relay information to other practitioners. 
+- Red Team Village (https://redteamvillage.io/): Community with a focus on offensive security and red teaming.
+- Infosec.Exchange (https://infosec.exchange/explore): A community focusing on information security.
 
 ## Researchers
 - SpecterOps (https://specterops.io/): Publishes deep technical content providing useful information for red-team, identity, and attack-path research.
@@ -15,7 +15,7 @@ A starter hub for RBOIS hacking
 - DFIR Report (https://thedfirreport.com/): A collection of real-world incident responses from investigations.
 
 ## Tooling
-- MITRE ATT&CK (https://attack.mitre.org/): categorizes adversary techniques into subcomponents along the attack phases. 
+- MITRE ATT&CK (https://attack.mitre.org/): categorizes adversary techniques into subcomponents along varying attack phases. 
 ### CLI and GUI Tools
 - NMAP: Ever wonder what devices are connected to your network, open ports, or actively running services? This tool will show it. 
 - Wireshark: Performs deep packet analysis on all traffic traversing through your network. Capturing details about visited websites, connected protocols, as well as any unencrypted passwords sent over the network.
@@ -36,11 +36,11 @@ A starter hub for RBOIS hacking
 - CodeXploit: Generates and tests exploits using AI-powered fuzzying. 
 ### GADGETS
 - PROXMARK3: An RFID/NFC hacking tool. It can read, clone, and crack access cards used in offices, hotels, and secure buildings. 
-- KEYLOGGERS: This tool records every single keystroke on the device it is directly connected to. 
+- KEYLOGGERS: This tool records user keystrokes from devices it is plugged into. 
 - LAN TURTLE: Once plugged into the network, it secretly gives remote access to the hacker. It can sniff traffic, monitor communications, and install persistent backdoors in the network. 
 - USB KILLER: When connected, this tool will release a high voltage surge into the USB port, effectively frying the motherboard causes permanent damage to the computer. Hackers use this for sabotage, while security professionals use it for stress testing the hardware. 
 - HACKEF ONE: It is a software defined radio. It can transmit and receive almost any radio signal, from walkie-talkies, garage doors, satellite, and aircraft systems. With it, hackers can jam signals, replay them, or clone them. Ethical researchers use them to test wireless protocols. 
-- RUBBER DUCKY USB: This tool executes pre-loaded code once plugged in, generating open command terminals, disabling antivirus software, creating backdoors, along with stealing data. 
+- RUBBER DUCKY USB: This tool used to open command terminals, disable antivirus software, or create backdoors through pre-loaded code. 
 - FLIPPER ZERO: This tool uses RFIDs, NFCs, RF frequencies, etc. once cloned to bypass access controls.
 - WIFI PINEAPPLE: It creates a fake Wi-Fi hotspot that appears legitimate. It can intercept data as well as perform website redirection and malware injections on any connect device, without the device owner’s knowledge.
 ### MOBILE APPS
