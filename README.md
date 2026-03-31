@@ -15,48 +15,91 @@ A starter hub for RBOIS hacking
 - DFIR Report: A collection of real-world incident response reports.
 
 ## Tooling
-- MITRE ATT&CK: categorizes adversary techniques into subcomponents along varying attack phases. 
-### CLI and GUI Tools
-- NMAP: Ever wonder what devices are connected to your network, open ports, or actively running services? This tool will show it. 
-- Wireshark: Performs deep packet analysis on all traffic traversing through your network. Capturing details about visited websites, connected protocols, as well as any unencrypted passwords sent over the network.
-- Metasploit: Known as a toolbox inside the toolbox. Used in lab environments to see how systems react to known security holes. It helps you understand how vulnerabilities are grouped and how payloads work. Learn how to defend against the moves by studying them.
-- BurpSuite: Have you ever wondered what happens when you click “login” on a website? BurpSuite shows you that. It finds websites that have cookies that aren’t safe and forms that aren’t set up right. It also acts as a web proxy, letting users look over and change web requests before they are sent.
-- Aircrack NG: Is a suite of tools that teaches users about Wi-Fi security. Capturing wireless packets to help users understand how encryption types such as WPA2/WPA3 work through analysis.
-- Hydra: A tool that tries different username/password combinations to see how easy it is to guess credentials. 
-- John the Ripper/Hashcat: Two tools that are used in testing the strength of hashes.
-- Nikto: This tool is used to scan websites for common security problems, old software, open directories, or missing headers.
-- Enum4linux: This tool shows where Windows and SMB services are on a network so that it can find users, open shares, and policies that are already in place.
-- SQLMap: A program that checks for SQL injections.
-- OWASP Zap: A program that checks websites for problems like bad settings or cookies that aren’t safe. 
-- NetCat (NC): A full-featured tool that can send data, move files, and check for open ports.
-### AI Tools
-- GPTShield: Protects AI tools from bad prompts and data leaks.
-- AIM-Hacker: Looks for security holes in code and creates fixes that developers can use to patch them.
-- DarkMentor: A chatbot that learned how to hack through stolen hacking guides. It is a secret teacher for people who commit cybercrimes.
-- CodeXploit: Uses AI-powered fuzzying to make and test exploits.
+### Social Engineering
+- GoPhish
+- HiadenEye
+- SocialFish
+- EvilURL
+- Evilginx
+- SET (Social-engineering toolkit)
+### Password Cracking
+- Hashcat
+- John the Ripper
+- Hydra
+- Medusa
+- Coin & Abel
+- Ophcrack
+### Web Application Assessment
+- OWASP ZAP
+- Burp Suite
+- Nikto
+- WPScan
+- Acunetix
+- Arachni
+### Cloud Security
+- AWS GuardDuty
+- Azure Security Center
+- Google Cloud Security Command Center
+- Prisma Cloud
+- Locework
+### Wireless Hacking
+- Aircrack-NG
+- Wifite
+- Kismet
+- TCPDump
+- Reaver
+### Exploitation
+- Metasploit Framework
+- Burp Suite
+- SQL Map
+- ExploitDB
+- Core Impact
+- Cobalt Strike
+- Empire
+### Vulnerability Scanning
+- Nessus
+- OpenVas
+- Nexpose
+- Acunetix
+- Lynis
+### Forensics
+- Wireshark
+- Autopsy
+- Volotility
+- Sleuthkit
+- Binwalk
+- Foremost
+- EnCase
+### Network Defense
+- Snort
+- Suricata
+- pfSense
+- Security Onion
+- AlienVault OSSIM
+### Endpoint Security
+- CrowdStrike Falcon
+- SentinelOne
+- Carbon Black
+- Symantec Endpoint Protection
+- Mierasoft Defender
+### Threat Intelligence
+- ThreatConnect
+- Recorded Future
+- AlienVault OTX
+- IBM X-Force Exchange
+- MISP (Malware Information Sharing)
+### Information Gathering
+- Nmap
+- Shodan
+- Maltego
+- TheHarvester
+- Recon-NG
+- Amass
+- Censys
+- OSINT Framework
 ### GADGETS
 - https://hackerwarehouse.com/: Hardware hacking tools
-### MOBILE APPS
-- Droid Sheep: This app lets you get into other people’s web sessions.
-- AndroRat: Is a tool for remote administration and security that finds weaknesses in devices.
-- Zanti: This is a mobile penetration testing toolkit that lets you check the security of your network and gives you advice on how to fix any problems it finds.
-- Fing: This tool actively scans your network and gives you detailed information about connected devices. It also lets you know if any unauthorized devices are found on your network. 
-- dSploit: This tool can do man-in-the-middle attacks, which let you change and intercept traffic.
-- USD Cleaver: This app is made to collect data from connected Windows devices. It can get passwords, Wi-Fi keys, and other private information.
-- Orbot: Hides your online activities so you can access websites and services that were previously blocked.
-### OSINT
-- Google Dorking: It collects a lot of information from websites all over the internet. Attackers use advanced search operators known as Google Dorks to find sensitive information like exposed documents, login portals, private files, and personal data.
-- Dehashed: This is a great tool for looking through data breaches and stolen passwords. It is a huge database of information that has been leaked. 
-- Lookups.io: Gathers information from hundreds of public sources to create detailed profiles.
-- Urlscan.io: Analyzes websites in a sandboxed environment.
-- Hunter.io: This tool helps you find emails linked to domains.
-- Pipl: Look into someone in great detail.
-- SpiderFoot: Makes a full profile of the person you want to target.
-- Censys: Scans hundreds of publicly available resources to find servers, services, and certificates that might be vulnerable.
-- Exploit Database: A database of stored exploits and vulnerabilities.
-- Maltego: Shows how people, organizations, and infrastructure are visually connected.
-- Have I PWNED: Important for finding out if your information has been part of a data breach.
-- Burp Suite/Web Security Academy: Database tool for finding web vulnerabilities and learning exploites.
+
 ## Writeups/Case Studies
 - The DFIR Report Case Studies: These show how real cyber attacks happened in great detail.
 - PortSwigger Web Security Research: Writes about new ways to attack the web and how to use discovered weaknesses as weapons.
