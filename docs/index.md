@@ -1,8 +1,10 @@
-## Explore the site
-- [Communities]({{ '/communities' | relative_url }})
-- [Researchers]({{ '/researchers' | relative_url }})
-- [Tools]({{ '/tools' | relative_url }})
-- [Write-ups & Case Studies]({{ '/writeups' | relative_url }})
-- [Rabbit Holes]({{ '/rabbit-holes' | relative_url }})
-- [Obscure Resources]({{ '/obsure-resources' | relative_url }})
-- [Starter Projects]({{ '/starter-projects' | relative_url }})
+This project collects and organizes cybersecurity resources into key categories for easier learning.
+## Explore
+-	[Communities](./communities)
+-	[Researchers](./researchers)
+-	[Tools](./tools)
+-	[Write-ups](./writeups)
+-	[Events](./events)
+-	[Rabbit Holes](./rabbit-holes)
+-	[Obscure Resources](./obscure-resources)
+-	[Starter Projects](./starter-projects)
