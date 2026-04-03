@@ -1,5 +1,5 @@
 ---
 layout: single
-title: “Communities”
+title: Communities
 permalink: /communities/
 ---
