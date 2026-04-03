@@ -1,0 +1,19 @@
+main:
+  - title: "Home"
+  url: /
+  - title: "Communities"
+  url: /communities/
+  - title: "Researchers"
+  url: /researchers/
+  - title: "Tools"
+  url: /tools/
+  - title: "Write-ups"
+  url: /write-ups/
+  - title: "Events"
+  url: /events/
+  - title: "Rabbit Holes"
+  url: /rabbit-holes/
+  - title: "Obscure Resources"
+  url: /obscure-resources/
+  - title: "Starter Projects"
+  url: /starter-projects/
