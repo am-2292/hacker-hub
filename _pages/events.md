@@ -1,5 +1,5 @@
 ---
 layout: single
-title: “Events”
+title: Events
 permalink: /events/
 ---
