@@ -1,0 +1,85 @@
+---
+---
+@import "{{ site.theme }}"
+
+/* Base Page */
+body {
+  background: #0b1020;
+  color: #e6edf3;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.7;
+}
+/* Main Content Area */
+.wrapper,
+section,
+.container {
+  max-width: 1000px;
+}
+/* Links */
+a {
+  color: #6ee7ff;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+  color: #a5f3fc;
+}
+/* Headings */
+h1, h2, h3 {
+  color: #ffffff;
+  margin-top: 1.5rem;
+}
+h1 {
+  border-bottom: 2px solid #1f2a44;
+  padding-bottom: 0.4rem;
+}
+h2 {
+  border-left: 4px solid #22d3ee;
+  padding-left: 0.6rem;
+}
+/* Nav */
+.nav {
+  background: #11182d;
+  border: 1px solid #22304f;
+  border-radius: 10px;
+  padding: 0.9rem 1rem;
+  margin: 1rem 0 2rem 0;
+}
+.nav a {
+  margin-right: 0.7rem;
+  font-weight: 600;
+  white-space: no-wrap;
+}
+/* Card-like content blocks */
+.card {
+  background: #11182d;
+  border: 1px solid #22304f;
+  border-radius: 12px;
+  padding: 1rem 1.1rem;
+  margin: 1rem 0;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.25)
+}
+/* labels */
+.label {
+  color: #8bd3dd;
+  font-weight: 700;
+}
+/* Divider */
+hr {
+  border: none;
+  border-top: 1px solid #22304f;
+  margin: 2rem 0;
+}
+/* Code blocks */
+pre, code {
+  background: #0f172a;
+  color: #d1fae5;
+  border-radius: 6px;
+}
+/* Small screens */
+@media (max-width: 768px) {
+  .nav a {
+    display: inline-block;
+    margin-bottom: 0.5rem;
+  }
+}
