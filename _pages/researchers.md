@@ -1,5 +1,6 @@
 ---
 layout: single
-title: Researchers
+title: "Researchers"
 permalink: /researchers/
+author_profile: false
 ---
