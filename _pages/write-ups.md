@@ -1,5 +1,5 @@
 ---
 layout: single
-title: “Write-ups”
+title: Write-ups
 permalink: /write-ups/
 ---
