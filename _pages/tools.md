@@ -1,5 +1,6 @@
 ---
 layout: single
-title: Tools
+title: "Tools"
 permalink: /tools/
+author_profile: false
 ---
