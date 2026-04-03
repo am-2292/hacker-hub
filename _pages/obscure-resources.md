@@ -1,5 +1,5 @@
 ---
 layout: single
-title: “Obscure Resources”
+title: Obscure Resources
 permalink: /obscure-resources/
 ---
