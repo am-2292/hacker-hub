@@ -1,5 +1,6 @@
 ---
 layout: single
-title: Communities
+title: "Communities"
 permalink: /communities/
+author_profile: false
 ---
