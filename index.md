@@ -60,7 +60,27 @@ feature_row_middle:
     url: /rabbit-holes/
     btn_label: "Go Deeper"
     btn_class: "btn--primary"
+
+feature_row_bottom:
+  - image_path: /assets/images/obscure-resources.png
+    alt: "Obscure Resources"
+    title: "Obscure Resources"
+    excerpt: "Lesser-known blogs, repos, papers, archives, and tools that deserve more attention."
+    url: /obscure-resources/
+    btn_label: "Discover More"
+    btn_class: "btn--primary"
+
+  - image_path: /assets/images/starter-projects.png
+    alt: "Starter Projects"
+    title: "Starter Projects"
+    excerpt: "Beginner-friendly build ideas, resource collections, and practical projects to start your own path."
+    url: /starter-projects/
+    btn_label: "Start Building"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
-{% include feature_row %}
+{% include feature_row id="feature_row_top" %}
+{% include feature_row id="feature_row_middle" %}
+{% include feature_row id="feature_row_bottom" %}
+
