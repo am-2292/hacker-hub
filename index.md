@@ -6,6 +6,7 @@ author_profile: false
 header:
   overlay_image: /assets/images/home-hero.png
   overlay_filter: 0.45
+  caption: "Research. Bookmark. Organize. Iterate. Share."
 
 intro:
   - excerpt: "RBOIS hub for red teaming, security research, unusual resources, and rabbit holes worth following."
@@ -22,7 +23,7 @@ feature_row_top:
   - image_path: /assets/images/researchers.png
     alt: "Researchers"
     title: "Researchers"
-    excerpt: "Security researchers, reverse engineers, red teamers, and builders who work is worth following."
+    excerpt: "Security researchers, reverse engineers, red teamers, and builders whose work is worth following."
     url: /researchers/
     btn_label: "Meet Researchers"
     btn_class: "btn--primary"
