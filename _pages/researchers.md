@@ -14,32 +14,25 @@ sidebar:
 
 Following respected researchers and organizations helps build awareness of current threats, attacker behavior, emerging techniques, and real-world investigations. This page collects sources that regularly publish research relevent to red teaming and defebsive understanding.
 
-## Researchers and Research Groups
+## Offensive Researchers
 
-### SpectorOps
-Publishes technical red teaming research.
+### Will Schroeder
+Active Directory Attacks.
 
-** Why it matters:**
-SpectorOps is especially useful for understanding advanced tradecraft, adversary behavior, and realistic red team methods.
+### Lee Christensen
+AD + identity abuse.
 
-### Mandiant
-Provides infromation about adversarial behavior, intrusion trends, and major incidents.
+### Harmj0y
+Bloodhound + AD tradecarft.
 
-**Why it matters:**
-Mandiant helps connect security concepts to real-world campaigns and attacker activity.
+### Adam Chester
+Cloud + internal attacks.
 
-### CISA
-Publishes findings and common weaknesses found during assessments.
+### John Hammond
+Practical offensive demos.
 
-**Why it matters:**
-CISA is useful because it shows real security issues that affect organizations and often highlight practical weaknesses.
+### IppSec
+Real exploit walkthroughs.
 
-### The DFIR Report
-A collection of real-world incident response reports.
-
-**Why it matters:**
-The DFIR Report is one of the best places to see how attacks actually unfold step by step.
-
-## Why This Page Matters
-
-This page is important because good researchers do more then report information; they explain patterns, techniques, and lessons that help people think more like analysts and operators.
+### Samy Kamkar
+Creative hacking techniques.
