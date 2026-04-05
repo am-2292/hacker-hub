@@ -3,21 +3,37 @@ layout: single
 title: "Obscure Resources"
 permalink: /obscure-resources/
 author_profile: false
+header:
+  overlay_image: /assets/images/obscure-resources.png
+  overlay_filter: 0.35
+sidebar:
+  nav: "docs"
 ---
 
 ## Obscure Resources
 
 ### GTFOBins
-A curated list of Unix-like executables that can be abused by attackers.
+Shows how legit Linux binaries can be abused for privilege escalation.
+(Darknet Diaries episode on insider abuse)
+(YouTube: "Linux Privilege Escalation GTFOBins Walkthrough)
 
 ### LOLBAS (Living Off The Land Binaries and Scripts)
-A curated list of Windows system binaries, scripts, and libraries that can be abused by attackers.
+Real attacker technique: use built-in Windows tools to evade detection. Used heavily in modern attacks (EDR evasion).
 
 ### PayloadsAllTheThings
-An open-source repository that conatins payloads, bypasses, and techniques used in testing and ethical hacking.
+A massive collection of real attack payloads. Used in CTFs, bug bounty, and red teaming.
 
 ### CyberChef
-An open-source web application used for encryption, encoding, compression, and format conversions.
+An open-source web application used for decoding, encoding, and payload manipulation.
+(YouTube: "CyberChef malware analysis walkthrough")
 
 ### Exploit Database
 A public archive of software vulnerabilities, exploits, and proof of concept code.
+
+### LiveOverflow
+A YouTube channel that explains hacking ideas that are hard to understand.
+
+### Pocasts
+> Darknet Diaries (storytelling + real attack scenarios)
+> Risky Business (weekly threat + industry insights)
+> Security Weekly (tools + interviews)
