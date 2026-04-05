@@ -7,8 +7,8 @@ main:
     url: /researchers/
   - title: "Tools"
     url: /tools/
-  - title: "Write-ups"
-    url: /write-ups/
+  - title: "Writeups"
+    url: /writeups/
   - title: "Events"
     url: /events/
   - title: "Rabbit Holes"
