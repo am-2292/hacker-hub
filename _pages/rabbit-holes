@@ -3,6 +3,11 @@ layout: single
 title: "Rabbit Holes"
 permalink: /rabbit-holes/
 author_profile: false
+header:
+  overlay_image: /assets/images/rabbit-holes.png
+sidebar:
+  nav: "docs"
+toc: true
 ---
 
 ## Rabbit Holes
