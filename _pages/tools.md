@@ -3,6 +3,13 @@ layout: single
 title: "Tools"
 permalink: /tools/
 author_profile: false
+header:
+  overlay_image: /assets/images/tools.png
+  overlay_filter: 0.35
+sidebar:
+  nav: "docs"
+toc: true
+classes: wide
 ---
 
 ## Core Red Team Tooling
