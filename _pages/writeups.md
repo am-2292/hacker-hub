@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Write-ups"
-permalink: /write-ups/
+title: "Writeups"
+permalink: /writeups/
 author_profile: false
 ---
