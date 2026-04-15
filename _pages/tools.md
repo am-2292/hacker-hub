@@ -12,12 +12,8 @@ toc: true
 classes: wide
 ---
 
-## Core Red Team Tooling
-
-### Command & Control (C2)
-> Cobalt Strike (industry standard)
-> Sliver (modern + popular)
-> Mythic (extensible + OPSEC-focused)
+### [garak](https://github.com/NVIDIA/garak)
+Automates testing for model weaknesses.
 
 ### Active Directory/Internal
 > Bloodhound
