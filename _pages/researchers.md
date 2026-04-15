@@ -24,3 +24,6 @@ Academic leader in adversarial ML.
 
 ### [Dawn Song](https://dawnsong.io)
 Works on AI safety + security at scale.
+
+### [Trail of Bits](https://blog.trailofbits.com)
+Security research company providing real audits + deep technical blogs.
