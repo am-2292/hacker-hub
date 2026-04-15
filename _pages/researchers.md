@@ -12,27 +12,15 @@ sidebar:
 
 ## Overview
 
-Following respected researchers and organizations helps build awareness of current threats, attacker behavior, emerging techniques, and real-world investigations. This page collects sources that regularly publish research relevent to red teaming and defebsive understanding.
 
-## Offensive Researchers
+### [Simon Willison](https://simonwillison.net)
+Best explanations of prompt injection. Makes complex ideas actually understandable.
 
-### Will Schroeder
-Active Directory Attacks.
+### [Johann Rehberger](https://embracethered.com)
+Find real-world prompt injection exploits.
 
-### Lee Christensen
-AD + identity abuse.
+### [Florian Tramèr](https://floriantramer.com)
+Academic leader in adversarial ML.
 
-### Harmj0y
-Bloodhound + AD tradecarft.
-
-### Adam Chester
-Cloud + internal attacks.
-
-### John Hammond
-Practical offensive demos.
-
-### IppSec
-Real exploit walkthroughs.
-
-### Samy Kamkar
-Creative hacking techniques.
+### [Dawn Song](https://dawnsong.io)
+Works on AI safety + security at scale.
